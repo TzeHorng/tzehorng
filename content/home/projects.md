@@ -33,11 +33,11 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "data-cleaning"
+  name = "Data Cleaning"
   tag = ".deep-learning"
 
 [[filter]]
-  name = "data-manipulation"
+  name = "Data Exploration"
   tag = ".demo"
 
 +++

@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2018-03-17"
 
 # Project title.
 title = "Data Cleaning"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "This page is dedicated to data cleaning and manipulation methods."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "cleaning.jpg"

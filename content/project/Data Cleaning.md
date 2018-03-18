@@ -4,7 +4,6 @@ date = "2016-04-27"
 
 # Project title.
 title = "Data Cleaning"
-title = "Data Exploration"
 
 # Project summary to display on homepage.
 summary = ""

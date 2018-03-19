@@ -9,7 +9,7 @@ title = "Data Exploration"
 summary = "This page is dedicated to data exploration methods and how to interpret it."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "exploration.jpeg"
+image_preview = "exploration.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -23,7 +23,6 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "exploration.jpeg"
-
+image = "headers/exploration-wide.jpg"
 +++
 

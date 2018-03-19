@@ -40,5 +40,9 @@ filter_default = 0
   name = "Data Exploration"
   tag = ".demo"
 
+[[filter]]
+  name = "Machine Learning"
+  tag = ".demo"
+
 +++
 

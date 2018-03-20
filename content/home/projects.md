@@ -44,5 +44,8 @@ filter_default = 0
   name = "Machine Learning"
   tag = ".demo"
 
+[[filter]]
+  name = "Datasets"
+
 +++
 

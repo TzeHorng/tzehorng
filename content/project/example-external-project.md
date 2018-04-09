@@ -16,7 +16,7 @@ image_preview = "exploration.jpg"
 tags = ["Data Exploration"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "http://example.org"
+#external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
